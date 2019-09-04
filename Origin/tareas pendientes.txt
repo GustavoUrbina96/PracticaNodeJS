@@ -1,0 +1,5 @@
+TAREAS PENDIENTES:
+JUEGO DE LA VIDA
+HTML/CSS part 2
+Wea de estructura
+Node.JS
